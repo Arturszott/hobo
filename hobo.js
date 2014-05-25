@@ -1,0 +1,3 @@
+var Hobo = function(name){
+    
+}
